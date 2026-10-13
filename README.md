@@ -34,8 +34,8 @@ sudo pacman -S base-devel
 Then build:
 
 ```bash
-git clone https://github.com/r4g4b/PEAnalyzer.git
-cd PEAnalyzer
+git clone https://github.com/r4g4b/exec-analyzer.git
+cd exec-analyzer
 make
 ```
 
@@ -50,8 +50,8 @@ xcode-select --install
 Then build:
 
 ```bash
-git clone https://github.com/r4g4b/PEAnalyzer.git
-cd PEAnalyzer
+git clone https://github.com/r4g4b/exec-analyzer.git
+cd exec-analyzer
 make
 ```
 
@@ -66,8 +66,8 @@ pacman -S mingw-w64-ucrt-x86_64-gcc make
 Then build:
 
 ```bash
-git clone https://github.com/r4g4b/PEAnalyzer.git
-cd PEAnalyzer
+git clone https://github.com/r4g4b/exec-analyzer.git
+cd exec-analyzer
 make
 ```
 
